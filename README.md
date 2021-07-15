@@ -1,2 +1,2 @@
 # criando o front em React.
-npm ini @vitejs/app
+npm init @vitejs/app
